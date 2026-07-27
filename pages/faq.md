@@ -26,7 +26,7 @@ hidden_from_navigation: true
         von Windows Software auf Linux ermöglicht. Unter den <a href="../tipps">Tipps</a> findest
         du eine Liste von Erfahrungsberichten, die wir mit der Verwendung von verschiedenen Programmen
         mit Wine sammeln konnten. Wir würden uns über
-        <a href="https://github.com/openhsr/www.openhsr.ch">deine Ergänzung</a> dieser Liste sehr
+        <a href="https://github.com/openhsr/www.open-ost.ch">deine Ergänzung</a> dieser Liste sehr
         freuen. :smiley:
     </dd>
 </dl>

@@ -5,13 +5,13 @@ tags: Entwicklung
 
 Wer auf Github ein Projekt wartet, kennt die Situation: Ein neuer Pull-Request wird eröffnet und man möchte die Änderungen gerne lokal ausprobieren, bevor man sie merged. Aber wie geht das am einfachsten?
 
-In diesem Tipp zeige ich am Beispiel vom Repository [openhsr/www.openhsr.ch](https://github.com/openhsr/www.openhsr.ch/), wie man bequem Pull-Requests lokal auschecken kann.
+In diesem Tipp zeige ich am Beispiel vom Repository [openhsr/www.open-ost.ch](https://github.com/openhsr/www.open-ost.ch/), wie man bequem Pull-Requests lokal auschecken kann.
 
 Falls du noch keine lokale Kopie des Projekts hast, dann klone es jetzt:
 
 ```bash
-$ git clone https://github.com/openhsr/www.openhsr.ch.git
-$ cd www.openhsr.ch/
+$ git clone https://github.com/openhsr/www.open-ost.ch.git
+$ cd www.open-ost.ch/
 ```
 
 Damit wir nicht jeden Pull-Request von Hand herunterladen müssen, ergänzen wir die Git-Konfiguration, so dass auch Pull-Requests bei einem `fetch` heruntergeladen werden.
@@ -27,7 +27,7 @@ $ git fetch
 remote: Counting objects: 53, done.
 remote: Total 53 (delta 20), reused 20 (delta 20), pack-reused 33
 Unpacking objects: 100% (53/53), done.
-From https://github.com/openhsr/www.openhsr.ch
+From https://github.com/openhsr/www.open-ost.ch
  * [new ref]         refs/pull/14/head -> origin/pr/14
  * [new ref]         refs/pull/24/head -> origin/pr/24
  * [new ref]         refs/pull/27/head -> origin/pr/27

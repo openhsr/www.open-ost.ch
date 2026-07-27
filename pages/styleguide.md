@@ -62,4 +62,4 @@ Hier werden **OST-Konfigurationen für bestimmte Programme** sowie Schritt-für-
 
 ### Weiteres
 
-Falls deine Dokumentation hier nirgendwo reinpassen sollte oder du noch Fragen hast, öffne doch bitte ein [GitHub-Issue](https://github.com/openhsr/www.openhsr.ch/issues/new), damit wir eine saubere Lösung finden.
+Falls deine Dokumentation hier nirgendwo reinpassen sollte oder du noch Fragen hast, öffne doch bitte ein [GitHub-Issue](https://github.com/openhsr/www.open-ost.ch/issues/new), damit wir eine saubere Lösung finden.

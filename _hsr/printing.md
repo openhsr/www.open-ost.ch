@@ -97,5 +97,5 @@ Es wird empfohlen sich einmal von der Desktopumgebung abzumelden und wieder anzu
 
 Nun öffnet man eine GTK3 Applikation wie **gedit** und löst von dort einen Druck aus. Es sollte eine Username/Passwortaufforderung erscheinen. Als Benutzername wird der HSR.ch Kurzname angegeben. Der Haken bei 'Passwort speichern' sollte gesetzt werden.
 
-Weitere Informationen dazu findest du im [Github Issue #16: Drucker unter Linux einrichten](https://github.com/openhsr/www.openhsr.ch/issues/16)
+Weitere Informationen dazu findest du im [Github Issue #16: Drucker unter Linux einrichten](https://github.com/openhsr/www.open-ost.ch/issues/16)
 {% endtoggle %}
