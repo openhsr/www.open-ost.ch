@@ -7,3 +7,12 @@ TODO.md
 
 /vendor/bundle
 /.bundle
+
+
+*.rc
+.direnv
+*.zip
+*.tar
+*:Zone.Identifier
+.env
+out/*
