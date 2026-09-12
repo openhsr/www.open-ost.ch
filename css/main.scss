@@ -243,6 +243,15 @@ a[href^="http://apt.ubuntu.com/p/"]:hover {
   box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.5);
 }
 
+
+/** edit on github BUTTON */
+.edit-on-github {
+  margin: 3rem 0 0 auto;
+  width: fit-content;
+  text-transform: none;
+  background-color: #303030;
+}
+
 /** HEADER */
 #header {
   display: flex;

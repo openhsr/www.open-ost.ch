@@ -5,6 +5,9 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: ""
 url: "https://www.open-ost.ch/" # the base hostname & protocol for your site
 
+github_username: openhsr
+git_repo: www.open-ost.ch
+
 exclude:
     - docker/
     - Makefile
