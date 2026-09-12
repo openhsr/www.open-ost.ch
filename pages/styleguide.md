@@ -63,3 +63,12 @@ Hier werden **OST-Konfigurationen für bestimmte Programme** sowie Schritt-für-
 ### Weiteres
 
 Falls deine Dokumentation hier nirgendwo reinpassen sollte oder du noch Fragen hast, öffne doch bitte ein [GitHub-Issue](https://github.com/openhsr/www.open-ost.ch/issues/new), damit wir eine saubere Lösung finden.
+
+### Informationen zum Inhalt Format
+
+> Einrückung ist mit `>` in Markdown möglich.
+
+Listen mit `* text` schreiben, es gibt momentan keine verschachtelten Listen.
+* text1
+* text2
+* text3
