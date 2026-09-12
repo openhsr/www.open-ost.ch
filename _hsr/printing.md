@@ -2,28 +2,7 @@
 title: Drucken
 ---
 
-## E-Mail mit PDF im Anhang
 
-Drucken per E-Mail ist die einfachste und bequemste Variante, um von Linux aus deine Dokumente zu drucken.
-
-1. Öffne dein E-Mail Programm und erstelle eine neue E-Mail.
-2. Stell sicher, dass du deine OST-E-Mail als Absender verwendest.
-2. Tippe als Empfänger die Adresse `mobileprint.rj@ost.ch` ein.
-3. Hänge eine oder mehr PDF-Dokumente an.
-4. Sende die E-Mail ab (Betreff und Inhalt braucht es nicht). <br>
-5. Kurze Zeit später solltest du eine Bestätigungsemail erhalten.
-6. Geh zu einem der Canon-Multifunktionsgeräte und leg deinen Badge auf.
-7. Unter `Secure Print` taucht der Druckauftrag auf. Du kannst Einstellungen wie lochen, heften, Duplex, Farbe usw. setzen, indem du den Auftrag auswählst und dann auf `Optionen` drückst.
-8. Drücke auf `drucken & löschen` - der Auftrag wird nun gedruckt.
-
-### Hinweise
-
-* Stelle sicher, dass deine E-Mail nach dem Muster `vorname.nachname@ost.ch` eingerichtet ist. Wenn deine E-Mail das Kürzel (wie `mmuster`) verwendet, funktioniert der Druck nicht.
-* Die Standardeinstellung für alle E-Mail-Druckaufträge ist schwarz-weiss. Dies kann am Drucker
-direkt unter `Optionen`  auf `Farbe` umgestellt werden.
-
-
-{% toggle %}
 ## Drucker unter Linux einrichten
 
 ### Canon MFP-BW
@@ -98,4 +77,3 @@ Es wird empfohlen sich einmal von der Desktopumgebung abzumelden und wieder anzu
 Nun öffnet man eine GTK3 Applikation wie **gedit** und löst von dort einen Druck aus. Es sollte eine Username/Passwortaufforderung erscheinen. Als Benutzername wird der HSR.ch Kurzname angegeben. Der Haken bei 'Passwort speichern' sollte gesetzt werden.
 
 Weitere Informationen dazu findest du im [Github Issue #16: Drucker unter Linux einrichten](https://github.com/openhsr/www.open-ost.ch/issues/16)
-{% endtoggle %}

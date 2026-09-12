@@ -10,8 +10,6 @@ Darum haben wir dir hier Alternativen aufgelistet.
 Programm        | Empfohlene Alternative            |       Weitere Alternativen
 ----------------|-----------------------------------|----------------------------
 Outlook         | [Thunderbird](/app/thunderbird)   | [Evolution](https://wiki.gnome.org/Apps/Evolution/), Mac Mail, Claws-Mail
-HSR Mapper      | [open\HSR Connect](https://github.com/openhsr/connect) | [Kommandozeilen-Scripts](https://gist.github.com/raphiz/29dd1ed3145b06b9398d)
-[DASYLab](/tipps/dasylab) (Modul ICTh)			| keine / Verwendung mit [Wine](/tipps/wine) 	| -
 
 {% for app_page in site.app %}
 
