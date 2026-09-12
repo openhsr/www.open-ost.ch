@@ -11,7 +11,7 @@ Authentication | ```Protected EAP (PEAP)```
 PEAP version | ```Automatic```
 CA Zertifikat | ```ca-certificates.crt```
 Inner authentication | ```MSCHAPv2```
-Username | ```maria.muster@ost.ch```
+Username | ```maria.muster```
 Password | ```GeHeim007```
 
 

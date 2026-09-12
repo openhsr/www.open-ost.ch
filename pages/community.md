@@ -43,7 +43,8 @@ Ein grosser Teil unserer Kommunikation und Arbeit findet auf GitHub statt. Falls
 
 ## Verein
 
-{% lightbox /assets/logo_new.png --data="logo" --title="Logo open\OST" --alt="Logo open\OST" --class="no-shadow" %}
+{% lightbox /assets/logo_open-ost.png --data="logo" --title="Logo open\OST" --alt="Logo open\OST" --class="logo" %}
+
 
 ### Unsere Ziele
 

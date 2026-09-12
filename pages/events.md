@@ -12,7 +12,7 @@ entnehmen.
 # {{ event_page.teaser_title }}: {{ event_page.title }}
 {{ event_page.teaser }}
 
-Mehr zu [{{ event_page.title }}]({{ event_page.url }})</a></p>
+Mehr zu [{{ event_page.title }}]({{ event_page.url }})
 
 {% if event_page.teaser_image %}
 ![{{ event_page.teaser_title }}]({{ event_page.teaser_image }})
@@ -20,13 +20,10 @@ Mehr zu [{{ event_page.title }}]({{ event_page.url }})</a></p>
 
 {% endfor %}
 
-<img src="/assets/emoji/octocat.png" style="float: right; box-shadow: none;" />
-# [Git/GitHub Workshop](https://github.com/openhsr/git-github-workshop/)
 
-> In diesem vom open\OST organisierten Workshop werden die ersten Hürden beim Arbeiten mit Git und GitHub überwunden. Wir wollen dir die Hemmschwelle nehmen, damit du unbeschwert zu Open Source und open\OST Projekten beitragen kannst.
-
-Dieser Workshop wird von [GitHub](https://github.com/) mit Handouts & Swag unterstützt :tada: :heart: :octocat:
-
+# OSS Meetup
+>  Das OSS Meetup ist ein Treffen ca. jeden Monat an einem Abend an der OST Rapperswil, es geht um verschiedenen Themen zu "Open Source Software".
+<!-- Link Gitlab + meetup/studentenportal? -->
 
 # [Swiss Python Summit](http://www.python-summit.ch/)
 
