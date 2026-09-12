@@ -66,13 +66,9 @@ Falls deine Dokumentation hier nirgendwo reinpassen sollte oder du noch Fragen h
 
 ### Informationen zum Inhalt Format
 
-> Einrückung ist mit `>` in Markdown möglich
+> Einrückung ist mit `>` in Markdown möglich.
 
-Verschachtelte Listen werden aktuell mit HTML-Tags gelöst und es gibt keine verschachtelten Listen.
-
-
-<ul>
-  <li>Listenelement</li>
-  <li>Weiteres Listenelement</li>
-</ul>
-
+Listen mit `* text` schreiben, es gibt momentan keine verschachtelten Listen.
+* text1
+* text2
+* text3
