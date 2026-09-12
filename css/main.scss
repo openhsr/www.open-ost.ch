@@ -110,6 +110,11 @@ img.no-shadow {
   box-shadow: none;
 }
 
+img.logo {
+  box-shadow: none;
+  max-width: 600px;
+}
+
 figure figcaption {
   text-align: center;
 }
@@ -608,7 +613,7 @@ main {
 .sponsoring a > img {
 	display: inline-block;
 	max-width: 19rem;
-	max-height: 5rem;
+	max-height: 65px;
 	margin: 1rem;
 }
 
